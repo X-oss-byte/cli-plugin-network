@@ -6,7 +6,7 @@ require (
 	cosmossdk.io/math v1.0.1
 	github.com/aws/smithy-go v1.13.4
 	github.com/cenkalti/backoff v2.2.1+incompatible
-	github.com/cometbft/cometbft v0.37.1
+	github.com/cometbft/cometbft v0.37.2
 	github.com/cosmos/cosmos-sdk v0.47.3
 	github.com/cosmos/ibc-go/v7 v7.1.0
 	github.com/go-git/go-git/v5 v5.6.1
