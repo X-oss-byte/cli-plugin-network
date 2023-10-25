@@ -26,7 +26,7 @@ require (
 	golang.org/x/sync v0.2.0
 	golang.org/x/tools v0.9.1
 	golang.org/x/vuln v0.1.0
-	google.golang.org/grpc v1.55.0
+	google.golang.org/grpc v1.56.3
 	google.golang.org/protobuf v1.30.0
 	mvdan.cc/gofumpt v0.5.0
 )
